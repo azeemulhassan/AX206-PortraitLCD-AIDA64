@@ -3,6 +3,7 @@
 A portrait-oriented **AIDA64 LCD template** for **320×480 AX206 displays**.
 
 Download the .axlcd file and import it in your AIDA64
+Overtime will add more templates if i make tweeks. Try diffrent ones to your liking.
 
 I created this because there aren't many portrait templates available for AX206 screens, and I wanted to give the community a clean starting point for their own sensor panel projects.
 
