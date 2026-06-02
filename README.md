@@ -35,9 +35,6 @@ I created this because there aren't many portrait templates available for AX206 
 - All logos, icons, and decorative elements can be replaced with your own PNG files to match your build's theme.
 - Feel free to move, resize, add, or remove sensors as needed.
 
-## Why?
-
-Most AX206 templates I found were landscape-oriented, while portrait displays seem to be largely overlooked. Hopefully this helps anyone looking for a portrait sensor panel without having to build one from scratch.
 
 ---
 
