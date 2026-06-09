@@ -12,20 +12,6 @@ I created this because there aren't many portrait templates available for AX206 
 
 ![Preview](preview.png)
 
-## Features
-
-- 320×480 portrait layout
-- CPU utilization, temperature, and power monitoring
-- GPU utilization, temperature, hotspot, and power monitoring
-- RAM and swap usage
-- Network speed monitoring
-- FPS display
-- Gaming-inspired red/black design
-- Built for AX206 LCDs
-
-## Included
-
-- AIDA64 template
 
 ## Notes
 
